@@ -1,0 +1,9 @@
+issues was with the storage limit, it has to match
+
+and the replica 0 was quite fun though!
+
+no logs whatsoever, but it was all in the file. very fun!
+
+after creating a config map i still get this error: Readiness probe failed: Get "http://10.1.0.31:9000/": dial tcp 10.1.0.31:9000: connect: connection refused
+
+not sure how to fix it
